@@ -1,3 +1,3 @@
 print("container alive")
-while True:
-    pass
+import time
+time.sleep(999999)
